@@ -41,10 +41,3 @@ N/A
 
 N/A
 
-## Questions
-
-For any questions, please contact me:
-
-GitHub: [Yousra-Kamal](https://github.com/Yousra-Kamal)
-
-Email: yousra@hotmail.com
