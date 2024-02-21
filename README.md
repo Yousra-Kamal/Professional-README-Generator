@@ -17,7 +17,7 @@ This README Generator app helps you quickly and easily generate a README file by
   - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
-  - [Questions](#questions)
+
 
 ## Usage
 
